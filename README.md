@@ -1,1 +1,1 @@
-# VGG-Image-Annotator: process-JSON-file
+# VGG-Image-Annotator: Parsing the JSON file
